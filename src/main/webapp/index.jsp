@@ -1,8 +1,7 @@
 <html>
 <body>
-<h2>Jenkins Successfully Deloyed War file in Tomcat!</h2>
-<h2>Jenkins Successfully Deloyed War file in Tomcat!</h2>
-  Welcome Hemanth
-  Congratulations! Tomcat depoyment successful!
+<h2>Hello Hemanth!!</h2>
+<h2>Jenkins has been Successfully Deployed</h2>
+  Congratulations! Tomcat deployment successful!
 </body>
 </html>
